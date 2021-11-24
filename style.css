@@ -1,0 +1,40 @@
+@charset
+
+*{
+    
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+html, body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+} 
+
+section.main{
+    width: 100%;
+    min-height: 100%;
+    background-image: url(DJI_0139.JPG);
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 50px;
+    margin: 0px;
+}
+h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#input{
+    text-align: center;
+    color:white
+}
